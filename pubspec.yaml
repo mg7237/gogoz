@@ -1,0 +1,86 @@
+name: gogoz
+description: A new Flutter project.
+
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.1+2
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+  carousel_slider: ^2.3.1
+  shared_preferences: ">=0.5.10 <2.0.0"
+  connectivity: ^0.4.9+2
+  http: ^0.12.2
+  sms_otp_auto_verify: ^1.2.2
+  flushbar: ^1.10.4
+  font_awesome_flutter: ^8.8.1
+  smooth_star_rating: ^1.1.1
+  intl: ^0.16.0
+  provider: ^4.3.2+2
+  razorpay_flutter: ^1.1.1
+  firebase_core: ^0.5.0
+  firebase_auth: ^0.18.0+1
+  cloud_firestore: ^0.14.0+2
+  firebase_messaging: ^7.0.3
+  flutter_local_notifications: ^2.0.0
+  firebase_database: ^4.0.0
+  shimmer: ^1.1.1
+  align_positioned: ^1.2.8
+  path_provider: ^1.6.18
+  device_info: ^0.4.2+8
+  google_fonts: ^1.1.0
+  broadcaster: ^1.0.4
+  flutter_rating_bar: ^3.0.1+1
+  eventify: ^0.1.4
+  webview_flutter: ^1.0.6
+  sliding_up_panel: ^1.0.2
+  google_maps_flutter: ^1.0.6
+  location: ^3.1.0
+  flutter_polyline_points: ^0.2.4
+  flutter_google_places: ^0.2.6
+  google_maps_webservice: ^0.0.18
+  permission_handler: ^5.0.1+1
+  # firebase_auth: 0.15.4
+  # cloud_firestore: 0.13.4
+  # firebase_core: 0.4.4
+  # firebase_database: ^3.1.6
+  latlong: ^0.6.1
+  geolocator: ^6.1.8+1
+  getwidget: ^1.2.4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_launcher_icons: "^0.8.0"
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: Caslon
+      fonts:
+        - asset: assets/fonts/Caslon.ttf
+    - family: AvenirBold
+      fonts:
+        - asset: assets/fonts/AvenirBold.otf
+    - family: SultanNahia
+      fonts:
+        - asset: assets/fonts/SultanNahia.ttf
+    - family: Avenir
+      fonts:
+        - asset: assets/fonts/AvenirNextLTPro-Regular.otf
+  assets:
+    - assets/images/
+    - assets/destination_map_marker.png
+    - assets/driving_pin.png
+flutter_icons:
+  ios: true
+  android: true
+  image_path_ios: "assets/images/icon.png"
+  image_path_android: "assets/images/icon.png"
+  adaptive_icon_background: "assets/images/background.png"
+  adaptive_icon_foreground: "assets/images/foreground.png"

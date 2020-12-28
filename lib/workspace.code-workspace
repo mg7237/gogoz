@@ -1,0 +1,34 @@
+{
+  "folders": [
+    {
+      "name": "vendorgogoz",
+      "path": "..\\..\\vendorgogoz"
+    },
+    {
+      "name": "webtest",
+      "path": "..\\..\\webtest"
+    },
+    {
+      "name": "webtestpc",
+      "path": "..\\..\\webtestpc"
+    },
+    {
+      "name": "gogoz",
+      "path": "..\\..\\..\\django\\gogoz"
+    },
+    {
+      "name": "gogoz",
+      "path": ".."
+    },
+    {
+      "path": "..\\..\\maps-customer"
+    },
+    {
+      "path": "..\\..\\maps-delivery"
+    },
+    {
+      "path": "..\\..\\deliverygogoz"
+    }
+  ],
+  "settings": {}
+}

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "479330078742",
+    "firebase_url": "https://gogoz-e3b55.firebaseio.com",
+    "project_id": "gogoz-e3b55",
+    "storage_bucket": "gogoz-e3b55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479330078742:android:9da7b1a7c1132b469ce537",
+        "android_client_info": {
+          "package_name": "com.gogoz.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479330078742-stl5q42cgl8uqkr0fsqtb1jbhc0hfogr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABz7C-XhLzej9i4fTHeAUaJscsPnvBn70"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "479330078742-stl5q42cgl8uqkr0fsqtb1jbhc0hfogr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
